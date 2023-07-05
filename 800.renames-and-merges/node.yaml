@@ -14,3 +14,4 @@
 - { setname: "node:terser",            name: terser }
 - { setname: "node:webpack",           name: webpack }
 - { setname: "node:weex-toolkit",      name: weex-toolkit }
+- { setname: "node:wrangler",          name: cloudflare-wrangler2 }
